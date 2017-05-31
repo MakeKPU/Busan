@@ -72,7 +72,7 @@ def MovieList(note):
             m = gmail.Mail()
             m.login()
             m.write()
-            #m.add(Func.tag_list, Func.value_list)
+            m.add(Func.tag_list, Func.value_list)
             m.send()
 
         answer = input("xml파일 저장을 하시겠습니까?(Y/N)::  ")

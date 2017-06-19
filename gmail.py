@@ -37,6 +37,9 @@ class Mail:
                     self.text += tag[i % size] + '\n'
                     for j in value[i][movies]:
                         self.text += " :: " + j + '\n'
+                    self.text += tag[7] + '\n'
+                    for j in value[7][movies]:
+                        self.text += " :: " + j + '\n'
                     self.text += "--------------------------------\n"
                 else:
                 #self.text += tag[i % size] + '\n'

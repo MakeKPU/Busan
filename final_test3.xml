@@ -1,0 +1,197 @@
+<channel>
+<title>Daum Open API - Search - query : '&#44257;&#49457;'</title> 
+<description>Daum Open API search result</description>  
+<generator>Daum Open API :: Search</generator> 
+<totalCount>1</totalCount>  
+<result>10</result> 
+<pageno>1</pageno> 
+<q>&#44257;&#49457;</q> 
+
+		<item>
+				<thumbnail>
+									<content>http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2Fea0dd6b5e5fd14eae961ac02382c704ef5016aed</content>
+									<link />
+				</thumbnail>
+				<title>
+									<content>&#44257;&#49457;(&#21741;&#32882;)</content>
+									<link>http://movie.daum.net/moviedb/main?movieId=84000</link>
+				</title>
+				<eng_title>
+									<content>THE WAILING</content>
+									<link />
+				</eng_title>
+				<ogr_title>
+									<content />
+									<link />
+				</ogr_title>
+				<kword>
+									<content>&#44257;&#49457;</content>
+									<link />
+				</kword>
+				<year>
+									<content>2016</content>
+									<link />
+				</year>
+				<category>
+									<content>&#51068;&#48152;</content>
+									<link />
+				</category>
+				<open_info>
+									<content>2016.05.12</content>
+									<link />
+									<content>15&#49464;&#51060;&#49345;&#44288;&#46988;&#44032;</content>
+									<link />
+									<content>156&#48516;</content>
+									<link />
+									<content />
+									<link />
+				</open_info>
+				<res>
+									<content />
+									<link />
+				</res>
+				<story>
+									<content>&#45231;&#49440; &#50808;&#51648;&#51064;&#51060; &#45208;&#53440;&#45212; &#54980; &#48268;&#50612;&#51648;&#45716; &#51032;&#47928;&#51032; &#50672;&#49604; &#49324;&#44148;&#46308;&#47196; &#47560;&#51012;&#51060; &#48156;&#52853; &#46244;&#51665;&#55180;&#45796;. &#44221;&#52272;&#51008; &#51665;&#45800; &#50556;&#49373; &#48260;&#49455; &#51473;&#46021;&#51004;&#47196; &#51104;&#51221;&#51201; &#44208;&#47200;&#51012; &#45236;&#47532;&#51648;&#47564; &#47784;&#46304; &#49324;&#44148;&#51032; &#50896;&#51064;&#51060; &#44536; &#50808;&#51648;&#51064; &#46412;&#47928;&#51060;&#46972;&#45716; &#49548;&#47928;&#44284; &#51032;&#49900;&#51060; &#44151;&#51105;&#51012; &#49688; &#50630;&#51060; &#54140;&#51256; &#45208;&#44036;&#45796;.
+
+&#44221;&#52272; &#8216;&#51333;&#44396;&#8217;(&#44285;&#46020;&#50896;)&#45716; &#54788;&#51109;&#51012; &#47785;&#44201;&#54664;&#45796;&#45716; &#50668;&#51064; &#8216;&#47924;&#47749;&#8217;(&#52380;&#50864;&#55148;)&#51012; &#47564;&#45208;&#47732;&#49436; &#50808;&#51648;&#51064;&#50640; &#45824;&#54620; &#49548;&#47928;&#51012; &#54869;&#49888;&#54616;&#44592; &#49884;&#51089;&#54620;&#45796;.
+&#46392; &#8216;&#54952;&#51652;&#8217;&#51060; &#54588;&#54644;&#51088;&#46308;&#44284; &#48708;&#49847;&#54620; &#51613;&#49345;&#51004;&#47196; &#50500;&#54028;&#50724;&#44592; &#49884;&#51089;&#54616;&#51088; &#45796;&#44553;&#54644;&#51652; &#8216;&#51333;&#44396;&#8217;. &#50808;&#51648;&#51064;&#51012; &#52286;&#50500; &#45212;&#46041;&#51012; &#48512;&#47532;&#44256;, &#47924;&#49549;&#51064; &#8216;&#51068;&#44305;&#8217;(&#54889;&#51221;&#48124;)&#51012; &#48520;&#47084; &#46308;&#51060;&#45716;&#45936;...</content>
+									<link>http://movie.daum.net/moviedb/main?movieId=84000</link>
+				</story>
+				<director>
+									<content>&#45208;&#54861;&#51652;</content>
+									<link>http://movie.daum.net/person/main?personId=98422</link>
+				</director>
+				<actor>
+									<content>&#44285;&#46020;&#50896;</content>
+									<link>http://movie.daum.net/person/main?personId=102149</link>
+									<content>&#54889;&#51221;&#48124;</content>
+									<link>http://movie.daum.net/person/main?personId=21025</link>
+									<content>&#53216;&#45768;&#47924;&#46972; &#51456;</content>
+									<link>http://movie.daum.net/person/main?personId=19232</link>
+									<content>&#52380;&#50864;&#55148;</content>
+									<link>http://movie.daum.net/person/main?personId=100712</link>
+									<content>&#44608;&#54872;&#55148;</content>
+									<link>http://movie.daum.net/person/main?personId=108567</link>
+									<content>&#54728;&#51652;</content>
+									<link>http://movie.daum.net/person/main?personId=20551</link>
+									<content>&#51109;&#49548;&#50672;</content>
+									<link>http://movie.daum.net/person/main?personId=80182</link>
+				</actor>
+				<more_actor>
+									<content />
+									<link>http://movie.daum.net/moviedb/crew?movieId=84000</link>
+				</more_actor>
+				<nation>
+									<content>&#54620;&#44397;</content>
+									<link />
+				</nation>
+				<genre>
+									<content>&#48120;&#49828;&#53552;&#47532;</content>
+									<link />
+									<content>&#49828;&#47540;&#47084;</content>
+									<link />
+									<content>&#46300;&#46972;&#47560;</content>
+									<link />
+				</genre>
+				<homepage>
+									<content />
+									<link>http://goksung.modoo.at</link>
+				</homepage>
+				<video_info>
+									<content>7</content>
+									<link>http://movie.daum.net/moviedb/video?id=84000</link>
+				</video_info>
+				<trailer>
+									<content>http://t1.daumcdn.net/movie/b752cd33f8d12c8fde94bb93423d93cb5669cb1a</content>
+									<link>http://movie.daum.net/moviedb/video?id=84000&amp;vclipId=50790</link>
+				</trailer>
+				<video>
+									<content>http://t1.daumcdn.net/movie/movie-trailer/82/05/50582/trailer_50582.jpg</content>
+									<link>http://movie.daum.net/moviedb/video?id=84000&amp;vclipId=50582</link>
+									<content>http://t1.daumcdn.net/movie/movie-trailer/69/08/50869/trailer_50869.jpg</content>
+									<link>http://movie.daum.net/moviedb/video?id=84000&amp;vclipId=50869</link>
+									<content>http://t1.daumcdn.net/movie/movie-trailer/72/10/51072/trailer_51072.jpg</content>
+									<link>http://movie.daum.net/moviedb/video?id=84000&amp;vclipId=51072</link>
+									<content>http://t1.daumcdn.net/movie/movie-trailer/59/10/51059/trailer_51059.jpg</content>
+									<link>http://movie.daum.net/moviedb/video?id=84000&amp;vclipId=51059</link>
+				</video>
+				<photo_info>
+									<content>107</content>
+									<link>http://movie.daum.net/moviedb/photoviewer?id=84000#start/PhotoList</link>
+				</photo_info>
+				<photo1>
+                            <content>http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F05c6ab71ab328fb888baea18aa3f864cc4fc7823</content>
+
+                            <link>http://movie.daum.net/moviedb/photoviewer?id=84000#1084108</link>
+
+				</photo1>
+				<photo2>
+                            <content>http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F83ab25f132c782a3ceca06e26590398337cc0ae9</content>
+
+                            <link>http://movie.daum.net/moviedb/photoviewer?id=84000#1089137</link>
+
+				</photo2>
+				<photo3>
+                            <content>http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F7eb0e0c6c56c89d4f135d1b93ed611a1064e33d3</content>
+
+                            <link>http://movie.daum.net/moviedb/photoviewer?id=84000#1084111</link>
+
+				</photo3>
+				<photo4>
+                            <content>http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F13558042e84061473bde9d182809954a1c084604</content>
+
+                            <link>http://movie.daum.net/moviedb/photoviewer?id=84000#1084109</link>
+
+				</photo4>
+				<photo5>
+                            <content>http://t1.search.daumcdn.net/thumb/R438x0.q85/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fmovie%2F38034a6dcb502b147dc9677362370b68a6f08e53</content>
+
+                            <link>http://movie.daum.net/moviedb/photoviewer?id=84000#1084110</link>
+
+				</photo5>
+				<grades>
+									<content>7.3</content>
+									<link>http://movie.daum.net/moviedb/grade?movieId=84000&amp;type=netizen</link>
+									<content>7821</content>
+									<link />
+				</grades>
+				<write_grades>
+									<content />
+									<link>http://movie.daum.net/moviedetailNetizenPoint.do?movieId=84000</link>
+				</write_grades>
+				<expect_grades>
+									<content />
+									<link>http://movie.daum.net/moviedetailNetizenPoint.do?movieId=84000&amp;type=before</link>
+									<content>0</content>
+									<link />
+				</expect_grades>
+				<grade1>
+									<content>2017.06.17</content>
+									<link />
+				</grade1>
+				<grade2>
+									<content>2017.06.17</content>
+									<link />
+				</grade2>
+				<grade3>
+									<content>2017.06.16</content>
+									<link />
+				</grade3>
+				<event>
+									<content />
+									<link />
+				</event>
+				<wiki_url>
+									<content />
+									<link />
+				</wiki_url>
+				<audience>
+									<content>6879954</content>
+									<link />
+				</audience>
+				<audience_date>
+									<content>2017-04-26</content>
+									<link />
+				</audience_date>
+		</item> 
+</channel>
